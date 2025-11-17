@@ -1,0 +1,10 @@
+.btn-row{
+    display: flex;
+    gap: 10px;
+    justify-content:space-between;
+   
+}
+.table-scroll {
+  max-height: 200px; 
+  overflow-y: auto;   
+}
