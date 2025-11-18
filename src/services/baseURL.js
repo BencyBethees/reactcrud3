@@ -1,0 +1,1 @@
+export const baseUrl = 'https://reactcrud3-backend.onrender.com'
